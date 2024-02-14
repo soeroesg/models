@@ -218,20 +218,168 @@
         "category": {
           "category": "landmark",
           "categoryFormat": "ogcindoor"
-        },
-        "openingHours": {
-          "openingHoursLines": [
-            "Mo-Su all day"
-          ],
-          "openingHoursFormat": "schemadotorg"
-        },
-        "accessPoint": {
-          "coordinates": [
-            52.0165652,
-            4.3767086
-          ]
         }
       }
-    }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.48568,
+          19.07885
+        ]
+      },
+      "featureID": "",
+      "name": {
+        "name": "Pad Thai Wok Bar"
+      },
+      "haspayload": {
+        "usesSchema": [
+          {
+            "href": "https://genpoijson.org/schema/interchangepoi.json",
+            "rel": "describedby"
+          }
+        ],
+        "address": {
+          "deliveryPoint": "Corvin s\u00e9t\u00e1ny",
+          "city": "Budapest",
+          "postalCode": "1083",
+          "country": "Magyarorsz\u00e1g"
+        },
+        "category": {
+          "category": "landmark",
+          "categoryFormat": "ogcindoor"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.48555,
+          19.07922
+        ]
+      },
+      "featureID": "",
+      "name": {
+        "name": "Cafe Frei"
+      },
+      "haspayload": {
+        "usesSchema": [
+          {
+            "href": "https://genpoijson.org/schema/interchangepoi.json",
+            "rel": "describedby"
+          }
+        ],
+        "address": {
+          "deliveryPoint": "Corvin s\u00e9t\u00e1ny",
+          "city": "Budapest",
+          "postalCode": "1083",
+          "country": "Magyarorsz\u00e1g"
+        },
+        "category": {
+          "category": "landmark",
+          "categoryFormat": "ogcindoor"
+        }        
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.48614,
+          19.07928
+        ]
+      },
+      "featureID": "",
+      "name": {
+        "name": "Gnocco Restaurant"
+      },
+      "haspayload": {
+        "usesSchema": [
+          {
+            "href": "https://genpoijson.org/schema/interchangepoi.json",
+            "rel": "describedby"
+          }
+        ],
+        "address": {
+          "deliveryPoint": "Corvin s\u00e9t\u00e1ny",
+          "city": "Budapest",
+          "postalCode": "1083",
+          "country": "Magyarorsz\u00e1g"
+        },
+        "category": {
+          "category": "landmark",
+          "categoryFormat": "ogcindoor"
+        }        
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.48597,
+          9.07905
+        ]
+      },
+      "featureID": "",
+      "name": {
+        "name": "Nokia Skypark A"
+      },
+      "haspayload": {
+        "usesSchema": [
+          {
+            "href": "https://genpoijson.org/schema/interchangepoi.json",
+            "rel": "describedby"
+          }
+        ],
+        "address": {
+          "deliveryPoint": "Corvin s\u00e9t\u00e1ny",
+          "city": "Budapest",
+          "postalCode": "1083",
+          "country": "Magyarorsz\u00e1g"
+        },
+        "category": {
+          "category": "landmark",
+          "categoryFormat": "ogcindoor"
+        }        
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.48595,
+          19.07958
+        ]
+      },
+      "featureID": "",
+      "name": {
+        "name": "Nokia Skypark B"
+      },
+      "haspayload": {
+        "usesSchema": [
+          {
+            "href": "https://genpoijson.org/schema/interchangepoi.json",
+            "rel": "describedby"
+          }
+        ],
+        "address": {
+          "deliveryPoint": "Corvin s\u00e9t\u00e1ny",
+          "city": "Budapest",
+          "postalCode": "1083",
+          "country": "Magyarorsz\u00e1g"
+        },
+        "category": {
+          "category": "landmark",
+          "categoryFormat": "ogcindoor"
+        }        
+      }
+    }    
   ]
 }
