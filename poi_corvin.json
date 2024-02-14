@@ -36,12 +36,6 @@
             "Mo-Su all day"
           ],
           "openingHoursFormat": "schemadotorg"
-        },
-        "accessPoint": {
-          "coordinates": [
-            52.0165652,
-            4.3767086
-          ]
         }
       }
     },
@@ -86,116 +80,16 @@
             "Mo-Sa 24:00-00:00"
           ],
           "openingHoursFormat": "schemadotorg"
-        },
-        "accessPoint": {
-          "coordinates": [
-            52.012041,
-            4.3572957
-          ]
         }
       }
-    },
+    },    
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.486119,
-          19.0682847
-        ]
-      },
-      "featureID": "0x47c5b5fafdfe4417:0xf7f11bbf2d64f96a",
-      "name": {
-        "name": "Iparm\u0171v\u00e9szeti M\u00fazeum"
-      },
-      "haspayload": {
-        "usesSchema": [
-          {
-            "href": "https://genpoijson.org/schema/interchangepoi.json",
-            "rel": "describedby"
-          }
-        ],
-        "website": {
-          "url": "http://www.imm.hu/"
-        },
-        "telephoneNumber": {
-          "number": "+3614565100"
-        },
-        "address": {
-          "deliveryPoint": "\u00dcll\u0151i \u00fat 33-37",
-          "city": "Budapest",
-          "postalCode": "1091",
-          "country": "Magyarorsz\u00e1g"
-        },
-        "category": {
-          "category": "museum",
-          "categoryFormat": "ogcindoor"
-        },
-        "openingHours": {
-          "openingHoursLines": [
-            "Tu-Su 10:00-18:00"
-          ],
-          "openingHoursFormat": "schemadotorg"
-        },
-        "accessPoint": {
-          "coordinates": [
-            52.0118472,
-            4.3586
-          ]
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.4862357,
-          19.0791477
-        ]
-      },
-      "featureID": "0x47c5b594a5faec51:0xb71a7d73768bcd1a",
-      "name": {
-        "name": "Nokia Solutions and Networks Kft."
-      },
-      "haspayload": {
-        "usesSchema": [
-          {
-            "href": "https://genpoijson.org/schema/interchangepoi.json",
-            "rel": "describedby"
-          }
-        ],
-        "website": {
-          "url": "http://www.nokia.com/"
-        },
-        "telephoneNumber": {
-          "number": "+36209777797"
-        },
-        "address": {
-          "deliveryPoint": "B\u00f3kay J\u00e1nos utca 36-42",
-          "city": "Budapest",
-          "postalCode": "1083",
-          "country": "Magyarorsz\u00e1g"
-        },
-        "category": {
-          "category": "corporateoffices",
-          "categoryFormat": "ogcindoor"
-        },
-        "accessPoint": {
-          "coordinates": [
-            52.0036782,
-            4.3669994
-          ]
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.4862859,
-          19.0792507
+          47.48601,
+          19.07939
         ]
       },
       "featureID": "",
@@ -218,6 +112,12 @@
         "category": {
           "category": "landmark",
           "categoryFormat": "ogcindoor"
+        },
+        "openingHours": {
+          "openingHoursLines": [
+            "Mo-Su all day"
+          ],
+          "openingHoursFormat": "schemadotorg"
         }
       }
     },
@@ -323,7 +223,7 @@
         "type": "Point",
         "coordinates": [
           47.48597,
-          9.07905
+          19.07905
         ]
       },
       "featureID": "",
@@ -378,8 +278,8 @@
         "category": {
           "category": "landmark",
           "categoryFormat": "ogcindoor"
-        }        
+        }
       }
-    }    
+    }
   ]
 }
