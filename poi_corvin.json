@@ -126,8 +126,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.48568,
-          19.07885
+          47.485772515885856,
+          19.07893754810189
         ]
       },
       "featureID": "",
@@ -158,8 +158,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.48555,
-          19.07922
+          47.485645576640536,
+          19.079269055581477
         ]
       },
       "featureID": "",
@@ -254,13 +254,78 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.48595,
-          19.07958
+          47.48597312000723,
+          19.07953451844088
         ]
       },
       "featureID": "",
       "name": {
         "name": "Nokia Skypark B"
+      },
+      "haspayload": {
+        "usesSchema": [
+          {
+            "href": "https://genpoijson.org/schema/interchangepoi.json",
+            "rel": "describedby"
+          }
+        ],
+        "address": {
+          "deliveryPoint": "Corvin s\u00e9t\u00e1ny",
+          "city": "Budapest",
+          "postalCode": "1083",
+          "country": "Magyarorsz\u00e1g"
+        },
+        "category": {
+          "category": "landmark",
+          "categoryFormat": "ogcindoor"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.48597,
+          19.07905
+        ]
+      },
+      "featureID": "",
+      "name": {
+        "name": "Nokia Skypark A"
+      },
+      "haspayload": {
+        "usesSchema": [
+          {
+            "href": "https://genpoijson.org/schema/interchangepoi.json",
+            "rel": "describedby"
+          }
+        ],
+        "address": {
+          "deliveryPoint": "Corvin s\u00e9t\u00e1ny",
+          "city": "Budapest",
+          "postalCode": "1083",
+          "country": "Magyarorsz\u00e1g"
+        },
+        "category": {
+          "category": "landmark",
+          "categoryFormat": "ogcindoor"
+        }        
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.485872987222166,
+          19.079685713689713,
+          20.0
+        ]
+      },
+      "featureID": "",
+      "name": {
+        "name": "Meeting room with great view"
       },
       "haspayload": {
         "usesSchema": [
