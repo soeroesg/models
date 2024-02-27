@@ -12,7 +12,7 @@
       },
       "featureID": "0x47c5b5fa90fc2063:0x42450c55ec5e8ace",
       "name": {
-        "name": "Bud Spencer szobra"
+        "name": "Bud Spencer statue"
       },
       "haspayload": {
         "usesSchema": [
@@ -89,12 +89,12 @@
         "type": "Point",
         "coordinates": [
           47.48601,
-          19.07939
+          19.07941
         ]
       },
       "featureID": "",
       "name": {
-        "name": "Gomboc szobor"
+        "name": "Gomboc statue"
       },
       "haspayload": {
         "usesSchema": [
@@ -126,8 +126,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.485772515885856,
-          19.07893754810189
+          47.48577,
+          19.07897
         ]
       },
       "featureID": "",
@@ -158,8 +158,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.485645576640536,
-          19.079269055581477
+          47.48563,
+          19.07935
         ]
       },
       "featureID": "",
@@ -190,8 +190,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.48614,
-          19.07928
+          47.48615,
+          19.07932
         ]
       },
       "featureID": "",
@@ -222,8 +222,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.48597,
-          19.07905
+          47.48598,
+          19.07908
         ]
       },
       "featureID": "",
@@ -254,8 +254,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.48597312000723,
-          19.07953451844088
+          47.48597,
+          19.07963
         ]
       },
       "featureID": "",
@@ -320,7 +320,7 @@
         "coordinates": [
           47.485872987222166,
           19.079685713689713,
-          20.0
+          27.0
         ]
       },
       "featureID": "",
