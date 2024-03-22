@@ -1,0 +1,357 @@
+{
+   "type" : "FeatureCollection",
+   "features" : [
+      {
+         "type" : "Feature",
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [ 52.00226815796868, 4.3739519086432415 ]
+         },
+         "featureID" : "553454854",
+         "name" : {
+            "name" : "Restaurant Aula"
+         },
+         "hasPayload" : {
+            "usesSchema" : [
+               {
+                  "href" : "https://genpoijson.org/schema/interchangepoi.json",
+                  "rel" : "describedby"
+               }
+            ],
+            "address" : {
+               "housenumber" : "",
+               "street" : "",
+               "city" : "",
+               "postalCode" : "",
+               "country" : ""
+            },
+            "note" : "OpenStreetMap POI 2024",
+            "categories" : [
+               {
+                  "categoryType" : "Type",
+                  "value" : "restaurant"
+               },
+               {
+                  "categoryType" : "Category",
+                  "value" : "amenity"
+               },
+               {
+                  "categoryType" : "Theme",
+                  "value" : "OpenStreetMap"
+               }
+            ],
+            "accessPoint" : {
+               "coordinates" : [ 52.00226815796868, 4.3739519086432415 ]
+            }
+         }
+      },
+      {
+         "type" : "Feature",
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [ 52.0024924580477, 4.373989308533563 ]
+         },
+         "featureID" : "3064383215",
+         "name" : {
+            "name" : "Café 015"
+         },
+         "hasPayload" : {
+            "usesSchema" : [
+               {
+                  "href" : "https://genpoijson.org/schema/interchangepoi.json",
+                  "rel" : "describedby"
+               }
+            ],
+            "address" : {
+               "housenumber" : "",
+               "street" : "",
+               "city" : "",
+               "postalCode" : "",
+               "country" : ""
+            },
+            "note" : "OpenStreetMap POI 2024",
+            "categories" : [
+               {
+                  "categoryType" : "Type",
+                  "value" : "cafe"
+               },
+               {
+                  "categoryType" : "Category",
+                  "value" : "amenity"
+               },
+               {
+                  "categoryType" : "Theme",
+                  "value" : "OpenStreetMap"
+               }
+            ],
+            "accessPoint" : {
+               "coordinates" : [ 52.0024924580477, 4.373989308533563 ]
+            }
+         }
+      },
+      {
+         "type" : "Feature",
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [ 52.002207757763465, 4.373055508378278 ]
+         },
+         "featureID" : "3064383216",
+         "name" : {
+            "name" : "toilets"
+         },
+         "hasPayload" : {
+            "usesSchema" : [
+               {
+                  "href" : "https://genpoijson.org/schema/interchangepoi.json",
+                  "rel" : "describedby"
+               }
+            ],
+            "address" : {
+               "housenumber" : "",
+               "street" : "",
+               "city" : "",
+               "postalCode" : "",
+               "country" : ""
+            },
+            "note" : "OpenStreetMap POI 2024",
+            "categories" : [
+               {
+                  "categoryType" : "Type",
+                  "value" : "toilets"
+               },
+               {
+                  "categoryType" : "Category",
+                  "value" : "amenity"
+               },
+               {
+                  "categoryType" : "Theme",
+                  "value" : "OpenStreetMap"
+               }
+            ],
+            "accessPoint" : {
+               "coordinates" : [ 52.002207757763465, 4.373055508378278 ]
+            }
+         }
+      },
+      {
+         "type" : "Feature",
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [ 52.00199225772949, 4.3732216085507885 ]
+         },
+         "featureID" : "3064383217",
+         "name" : {
+            "name" : "toilets"
+         },
+         "hasPayload" : {
+            "usesSchema" : [
+               {
+                  "href" : "https://genpoijson.org/schema/interchangepoi.json",
+                  "rel" : "describedby"
+               }
+            ],
+            "address" : {
+               "housenumber" : "",
+               "street" : "",
+               "city" : "",
+               "postalCode" : "",
+               "country" : ""
+            },
+            "note" : "OpenStreetMap POI 2024",
+            "categories" : [
+               {
+                  "categoryType" : "Type",
+                  "value" : "toilets"
+               },
+               {
+                  "categoryType" : "Category",
+                  "value" : "amenity"
+               },
+               {
+                  "categoryType" : "Theme",
+                  "value" : "OpenStreetMap"
+               }
+            ],
+            "accessPoint" : {
+               "coordinates" : [ 52.00199225772949, 4.3732216085507885 ]
+            }
+         }
+      },
+      {
+         "type" : "Feature",
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [ 52.0014252575311, 4.373133408830164 ]
+         },
+         "featureID" : "488634826",
+         "name" : {
+            "name" : "Prometheus"
+         },
+         "hasPayload" : {
+            "usesSchema" : [
+               {
+                  "href" : "https://genpoijson.org/schema/interchangepoi.json",
+                  "rel" : "describedby"
+               }
+            ],
+            "address" : {
+               "housenumber" : "",
+               "street" : "",
+               "city" : "",
+               "postalCode" : "",
+               "country" : ""
+            },
+            "note" : "OpenStreetMap POI 2024",
+            "categories" : [
+               {
+                  "categoryType" : "Type",
+                  "value" : "artwork"
+               },
+               {
+                  "categoryType" : "Category",
+                  "value" : "tourism"
+               },
+               {
+                  "categoryType" : "Theme",
+                  "value" : "OpenStreetMap"
+               }
+            ],
+            "accessPoint" : {
+               "coordinates" : [ 52.0014252575311, 4.373133408830164 ]
+            }
+         }
+      },
+      {
+         "type" : "Feature",
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [ 52.00182435756995, 4.37270980847215 ]
+         },
+         "featureID" : "3163689444",
+         "name" : {
+            "name" : "Salami"
+         },
+         "hasPayload" : {
+            "usesSchema" : [
+               {
+                  "href" : "https://genpoijson.org/schema/interchangepoi.json",
+                  "rel" : "describedby"
+               }
+            ],
+            "address" : {
+               "housenumber" : "",
+               "street" : "",
+               "city" : "",
+               "postalCode" : "",
+               "country" : ""
+            },
+            "note" : "OpenStreetMap POI 2024",
+            "categories" : [
+               {
+                  "categoryType" : "Type",
+                  "value" : "artwork"
+               },
+               {
+                  "categoryType" : "Category",
+                  "value" : "tourism"
+               },
+               {
+                  "categoryType" : "Theme",
+                  "value" : "OpenStreetMap"
+               }
+            ],
+            "accessPoint" : {
+               "coordinates" : [ 52.00182435756995, 4.37270980847215 ]
+            }
+         }
+      },
+      {
+         "type" : "Feature",
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [ 52.00243625801078, 4.3738974085336215 ]
+         },
+         "featureID" : "11359076739",
+         "name" : {
+            "name" : "1940-1945 studenten streden en leden"
+         },
+         "hasPayload" : {
+            "usesSchema" : [
+               {
+                  "href" : "https://genpoijson.org/schema/interchangepoi.json",
+                  "rel" : "describedby"
+               }
+            ],
+            "address" : {
+               "housenumber" : "",
+               "street" : "",
+               "city" : "",
+               "postalCode" : "",
+               "country" : ""
+            },
+            "note" : "OpenStreetMap POI 2024",
+            "categories" : [
+               {
+                  "categoryType" : "Type",
+                  "value" : "artwork"
+               },
+               {
+                  "categoryType" : "Category",
+                  "value" : "tourism"
+               },
+               {
+                  "categoryType" : "Theme",
+                  "value" : "OpenStreetMap"
+               }
+            ],
+            "accessPoint" : {
+               "coordinates" : [ 52.00243625801078, 4.3738974085336215 ]
+            }
+         }
+      },
+      {
+         "type" : "Feature",
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [ 52.00214555792288, 4.373918908699019 ]
+         },
+         "featureID" : "11359076740",
+         "name" : {
+            "name" : "Portret van Frans van Hasselt"
+         },
+         "hasPayload" : {
+            "usesSchema" : [
+               {
+                  "href" : "https://genpoijson.org/schema/interchangepoi.json",
+                  "rel" : "describedby"
+               }
+            ],
+            "address" : {
+               "housenumber" : "",
+               "street" : "",
+               "city" : "",
+               "postalCode" : "",
+               "country" : ""
+            },
+            "note" : "OpenStreetMap POI 2024",
+            "categories" : [
+               {
+                  "categoryType" : "Type",
+                  "value" : "artwork"
+               },
+               {
+                  "categoryType" : "Category",
+                  "value" : "tourism"
+               },
+               {
+                  "categoryType" : "Theme",
+                  "value" : "OpenStreetMap"
+               }
+            ],
+            "accessPoint" : {
+               "coordinates" : [ 52.00214555792288, 4.373918908699019 ]
+            }
+         }
+      }
+   ]
+}
