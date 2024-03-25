@@ -5,99 +5,11 @@
          "type" : "Feature",
          "geometry" : {
             "type" : "Point",
-            "coordinates" : [ 52.00226815796868, 4.3739519086432415 ]
-         },
-         "featureID" : "553454854",
-         "name" : {
-            "name" : "Restaurant Aula"
-         },
-         "hasPayload" : {
-            "usesSchema" : [
-               {
-                  "href" : "https://genpoijson.org/schema/interchangepoi.json",
-                  "rel" : "describedby"
-               }
-            ],
-            "address" : {
-               "housenumber" : "",
-               "street" : "",
-               "city" : "",
-               "postalCode" : "",
-               "country" : ""
-            },
-            "note" : "OpenStreetMap POI 2024",
-            "categories" : [
-               {
-                  "categoryType" : "Type",
-                  "value" : "restaurant"
-               },
-               {
-                  "categoryType" : "Category",
-                  "value" : "amenity"
-               },
-               {
-                  "categoryType" : "Theme",
-                  "value" : "OpenStreetMap"
-               }
-            ],
-            "accessPoint" : {
-               "coordinates" : [ 52.00226815796868, 4.3739519086432415 ]
-            }
-         }
-      },
-      {
-         "type" : "Feature",
-         "geometry" : {
-            "type" : "Point",
-            "coordinates" : [ 52.0024924580477, 4.373989308533563 ]
-         },
-         "featureID" : "3064383215",
-         "name" : {
-            "name" : "Café 015"
-         },
-         "hasPayload" : {
-            "usesSchema" : [
-               {
-                  "href" : "https://genpoijson.org/schema/interchangepoi.json",
-                  "rel" : "describedby"
-               }
-            ],
-            "address" : {
-               "housenumber" : "",
-               "street" : "",
-               "city" : "",
-               "postalCode" : "",
-               "country" : ""
-            },
-            "note" : "OpenStreetMap POI 2024",
-            "categories" : [
-               {
-                  "categoryType" : "Type",
-                  "value" : "cafe"
-               },
-               {
-                  "categoryType" : "Category",
-                  "value" : "amenity"
-               },
-               {
-                  "categoryType" : "Theme",
-                  "value" : "OpenStreetMap"
-               }
-            ],
-            "accessPoint" : {
-               "coordinates" : [ 52.0024924580477, 4.373989308533563 ]
-            }
-         }
-      },
-      {
-         "type" : "Feature",
-         "geometry" : {
-            "type" : "Point",
             "coordinates" : [ 52.002207757763465, 4.373055508378278 ]
          },
          "featureID" : "3064383216",
          "name" : {
-            "name" : "toilets"
+            "name" : "bycicle parking"
          },
          "hasPayload" : {
             "usesSchema" : [
@@ -115,14 +27,6 @@
             },
             "note" : "OpenStreetMap POI 2024",
             "categories" : [
-               {
-                  "categoryType" : "Type",
-                  "value" : "toilets"
-               },
-               {
-                  "categoryType" : "Category",
-                  "value" : "amenity"
-               },
                {
                   "categoryType" : "Theme",
                   "value" : "OpenStreetMap"
@@ -141,7 +45,7 @@
          },
          "featureID" : "3064383217",
          "name" : {
-            "name" : "toilets"
+            "name" : "TU Aula"
          },
          "hasPayload" : {
             "usesSchema" : [
@@ -161,11 +65,11 @@
             "categories" : [
                {
                   "categoryType" : "Type",
-                  "value" : "toilets"
+                  "value" : "building"
                },
                {
                   "categoryType" : "Category",
-                  "value" : "amenity"
+                  "value" : "education"
                },
                {
                   "categoryType" : "Theme",
@@ -185,7 +89,7 @@
          },
          "featureID" : "488634826",
          "name" : {
-            "name" : "Prometheus"
+            "name" : "Prometheus sculpture"
          },
          "hasPayload" : {
             "usesSchema" : [
@@ -229,7 +133,7 @@
          },
          "featureID" : "3163689444",
          "name" : {
-            "name" : "Salami"
+            "name" : "Salami sculpture"
          },
          "hasPayload" : {
             "usesSchema" : [
