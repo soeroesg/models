@@ -9,7 +9,7 @@
          },
          "featureID" : "3064383216",
          "name" : {
-            "name" : "bycicle parking"
+            "name" : "bicycle parking"
          },
          "hasPayload" : {
             "usesSchema" : [
@@ -45,7 +45,7 @@
          },
          "featureID" : "3064383217",
          "name" : {
-            "name" : "TU Aula"
+            "name" : "TU Aula Conference Hall"
          },
          "hasPayload" : {
             "usesSchema" : [
@@ -166,94 +166,6 @@
             ],
             "accessPoint" : {
                "coordinates" : [ 52.00182435756995, 4.37270980847215 ]
-            }
-         }
-      },
-      {
-         "type" : "Feature",
-         "geometry" : {
-            "type" : "Point",
-            "coordinates" : [ 52.00243625801078, 4.3738974085336215 ]
-         },
-         "featureID" : "11359076739",
-         "name" : {
-            "name" : "1940-1945 studenten streden en leden"
-         },
-         "hasPayload" : {
-            "usesSchema" : [
-               {
-                  "href" : "https://genpoijson.org/schema/interchangepoi.json",
-                  "rel" : "describedby"
-               }
-            ],
-            "address" : {
-               "housenumber" : "",
-               "street" : "",
-               "city" : "",
-               "postalCode" : "",
-               "country" : ""
-            },
-            "note" : "OpenStreetMap POI 2024",
-            "categories" : [
-               {
-                  "categoryType" : "Type",
-                  "value" : "artwork"
-               },
-               {
-                  "categoryType" : "Category",
-                  "value" : "tourism"
-               },
-               {
-                  "categoryType" : "Theme",
-                  "value" : "OpenStreetMap"
-               }
-            ],
-            "accessPoint" : {
-               "coordinates" : [ 52.00243625801078, 4.3738974085336215 ]
-            }
-         }
-      },
-      {
-         "type" : "Feature",
-         "geometry" : {
-            "type" : "Point",
-            "coordinates" : [ 52.00214555792288, 4.373918908699019 ]
-         },
-         "featureID" : "11359076740",
-         "name" : {
-            "name" : "Portret van Frans van Hasselt"
-         },
-         "hasPayload" : {
-            "usesSchema" : [
-               {
-                  "href" : "https://genpoijson.org/schema/interchangepoi.json",
-                  "rel" : "describedby"
-               }
-            ],
-            "address" : {
-               "housenumber" : "",
-               "street" : "",
-               "city" : "",
-               "postalCode" : "",
-               "country" : ""
-            },
-            "note" : "OpenStreetMap POI 2024",
-            "categories" : [
-               {
-                  "categoryType" : "Type",
-                  "value" : "artwork"
-               },
-               {
-                  "categoryType" : "Category",
-                  "value" : "tourism"
-               },
-               {
-                  "categoryType" : "Theme",
-                  "value" : "OpenStreetMap"
-               }
-            ],
-            "accessPoint" : {
-               "coordinates" : [ 52.00214555792288, 4.373918908699019 ]
             }
          }
       }
