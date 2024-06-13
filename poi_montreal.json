@@ -1,0 +1,85 @@
+{
+   "type" : "FeatureCollection",
+   "features" : [
+      {
+         "type" : "Feature",
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [ 45.5027536930835, -73.57460336264576 ]
+         },
+         "featureID" : "3064383216",
+         "name" : {
+            "name" : "Mount Royal Center"
+         },
+         "hasPayload" : {
+            "usesSchema" : [
+               {
+                  "href" : "https://genpoijson.org/schema/interchangepoi.json",
+                  "rel" : "describedby"
+               }
+            ],
+            "address" : {
+               "housenumber" : "",
+               "street" : "",
+               "city" : "",
+               "postalCode" : "",
+               "country" : ""
+            },
+            "note" : "OpenStreetMap POI 2024",
+            "categories" : [
+               {
+                  "categoryType" : "Theme",
+                  "value" : "OpenStreetMap"
+               }
+            ],
+            "accessPoint" : {
+               "coordinates" : [ 52.002207757763465, 4.373055508378278 ]
+            }
+         }
+      },
+      {
+         "type" : "Feature",
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [ 45.502635926824226, -73.57432198429231 ]
+         },
+         "featureID" : "3064383217",
+         "name" : {
+            "name" : "Hotel Le Germain Montreal"
+         },
+         "hasPayload" : {
+            "usesSchema" : [
+               {
+                  "href" : "https://genpoijson.org/schema/interchangepoi.json",
+                  "rel" : "describedby"
+               }
+            ],
+            "address" : {
+               "housenumber" : "",
+               "street" : "",
+               "city" : "",
+               "postalCode" : "",
+               "country" : ""
+            },
+            "note" : "OpenStreetMap POI 2024",
+            "categories" : [
+               {
+                  "categoryType" : "Type",
+                  "value" : "building"
+               },
+               {
+                  "categoryType" : "Category",
+                  "value" : "education"
+               },
+               {
+                  "categoryType" : "Theme",
+                  "value" : "OpenStreetMap"
+               }
+            ],
+            "accessPoint" : {
+               "coordinates" : [ 52.00199225772949, 4.3732216085507885 ]
+            }
+         }
+      }
+   ]
+}
