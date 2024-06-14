@@ -5,7 +5,7 @@
          "type" : "Feature",
          "geometry" : {
             "type" : "Point",
-            "coordinates" : [ 45.5027536930835, -73.57460336264576 ]
+            "coordinates" : [ 45.502750, -73.574603 ]
          },
          "featureID" : "3064383216",
          "name" : {
@@ -41,11 +41,11 @@
          "type" : "Feature",
          "geometry" : {
             "type" : "Point",
-            "coordinates" : [ 45.502635926824226, -73.57432198429231 ]
+            "coordinates" : [ 45.502631, -73.574320 ]
          },
          "featureID" : "3064383217",
          "name" : {
-            "name" : "Hotel Le Germain Montreal"
+            "name" : "Hotel Le Germain"
          },
          "hasPayload" : {
             "usesSchema" : [
