@@ -1,0 +1,408 @@
+{
+   "type" : "FeatureCollection",
+   "features" : [
+      {
+         "type" : "Feature",
+         "geometry" : { "type" : "Point", "coordinates" : [ 41.0987727, 16.8552901 ] },
+         "featureID" : "bari-poi-01",
+         "name" : { "name" : "Taiki Sushi" },
+         "hasPayload" : {
+            "usesSchema" : [ { "href" : "https://genpoijson.org/schema/interchangepoi.json", "rel" : "describedby" } ],
+            "address" : { "housenumber" : "25", "street" : "Via Cardinale Agostino Ciasca", "city" : "Bari", "postalCode" : "70124", "country" : "Italy" },
+            "note" : "Recommended by ISMAR2026 organizers",
+            "categories" : [ { "categoryType" : "Theme", "value" : "Restaurant" } ],
+            "accessPoint" : { "coordinates" : [ 41.0987727, 16.8552901 ] }
+         }
+      },
+      {
+         "type" : "Feature",
+         "geometry" : { "type" : "Point", "coordinates" : [ 41.0987727, 16.8552901 ] },
+         "featureID" : "bari-poi-02",
+         "name" : { "name" : "Canarute" },
+         "hasPayload" : {
+            "usesSchema" : [ { "href" : "https://genpoijson.org/schema/interchangepoi.json", "rel" : "describedby" } ],
+            "address" : { "housenumber" : "5", "street" : "Via Cardinale Agostino Ciasca", "city" : "Bari", "postalCode" : "70124", "country" : "Italy" },
+            "note" : "Recommended by ISMAR2026 organizers",
+            "categories" : [ { "categoryType" : "Theme", "value" : "Restaurant" } ],
+            "accessPoint" : { "coordinates" : [ 41.0987727, 16.8552901 ] }
+         }
+      },
+      {
+         "type" : "Feature",
+         "geometry" : { "type" : "Point", "coordinates" : [ 41.0978102, 16.8542796 ] },
+         "featureID" : "bari-poi-03",
+         "name" : { "name" : "Osteria Dal\u00ec" },
+         "hasPayload" : {
+            "usesSchema" : [ { "href" : "https://genpoijson.org/schema/interchangepoi.json", "rel" : "describedby" } ],
+            "address" : { "housenumber" : "42", "street" : "Via Salvatore Matarrese", "city" : "Bari", "postalCode" : "70124", "country" : "Italy" },
+            "note" : "Recommended by ISMAR2026 organizers",
+            "categories" : [ { "categoryType" : "Theme", "value" : "Restaurant" } ],
+            "accessPoint" : { "coordinates" : [ 41.0978102, 16.8542796 ] }
+         }
+      },
+      {
+         "type" : "Feature",
+         "geometry" : { "type" : "Point", "coordinates" : [ 41.1036642, 16.8576063 ] },
+         "featureID" : "bari-poi-04",
+         "name" : { "name" : "Gola Caff\u00e8 Bistrot" },
+         "hasPayload" : {
+            "usesSchema" : [ { "href" : "https://genpoijson.org/schema/interchangepoi.json", "rel" : "describedby" } ],
+            "address" : { "housenumber" : "47/K", "street" : "Via Camillo Rosalba", "city" : "Bari", "postalCode" : "70124", "country" : "Italy" },
+            "note" : "Recommended by ISMAR2026 organizers",
+            "categories" : [ { "categoryType" : "Theme", "value" : "Restaurant" } ],
+            "accessPoint" : { "coordinates" : [ 41.1036642, 16.8576063 ] }
+         }
+      },
+      {
+         "type" : "Feature",
+         "geometry" : { "type" : "Point", "coordinates" : [ 41.0984419, 16.8530833 ] },
+         "featureID" : "bari-poi-05",
+         "name" : { "name" : "Burp" },
+         "hasPayload" : {
+            "usesSchema" : [ { "href" : "https://genpoijson.org/schema/interchangepoi.json", "rel" : "describedby" } ],
+            "address" : { "housenumber" : "4/C", "street" : "Via Enrico Pappacena", "city" : "Bari", "postalCode" : "70124", "country" : "Italy" },
+            "note" : "Recommended by ISMAR2026 organizers",
+            "categories" : [ { "categoryType" : "Theme", "value" : "Restaurant" } ],
+            "accessPoint" : { "coordinates" : [ 41.0984419, 16.8530833 ] }
+         }
+      },
+      {
+         "type" : "Feature",
+         "geometry" : { "type" : "Point", "coordinates" : [ 41.0977615, 16.8544014 ] },
+         "featureID" : "bari-poi-06",
+         "name" : { "name" : "Da Luigi Pizzeria Braceria" },
+         "hasPayload" : {
+            "usesSchema" : [ { "href" : "https://genpoijson.org/schema/interchangepoi.json", "rel" : "describedby" } ],
+            "address" : { "housenumber" : "4/C-D-E", "street" : "Via Salvatore Matarrese", "city" : "Bari", "postalCode" : "70124", "country" : "Italy" },
+            "note" : "Recommended by ISMAR2026 organizers",
+            "categories" : [ { "categoryType" : "Theme", "value" : "Restaurant" } ],
+            "accessPoint" : { "coordinates" : [ 41.0977615, 16.8544014 ] }
+         }
+      },
+      {
+         "type" : "Feature",
+         "geometry" : { "type" : "Point", "coordinates" : [ 41.0966691, 16.8537614 ] },
+         "featureID" : "bari-poi-07",
+         "name" : { "name" : "Mod\u00f2 Sushi Fusion" },
+         "hasPayload" : {
+            "usesSchema" : [ { "href" : "https://genpoijson.org/schema/interchangepoi.json", "rel" : "describedby" } ],
+            "address" : { "housenumber" : "2/11", "street" : "Via Salvatore Matarrese", "city" : "Bari", "postalCode" : "70124", "country" : "Italy" },
+            "note" : "Recommended by ISMAR2026 organizers",
+            "categories" : [ { "categoryType" : "Theme", "value" : "Restaurant" } ],
+            "accessPoint" : { "coordinates" : [ 41.0966691, 16.8537614 ] }
+         }
+      },
+      {
+         "type" : "Feature",
+         "geometry" : { "type" : "Point", "coordinates" : [ 41.0984419, 16.8530833 ] },
+         "featureID" : "bari-poi-08",
+         "name" : { "name" : "Gulp" },
+         "hasPayload" : {
+            "usesSchema" : [ { "href" : "https://genpoijson.org/schema/interchangepoi.json", "rel" : "describedby" } ],
+            "address" : { "housenumber" : "4/G", "street" : "Via Enrico Pappacena", "city" : "Bari", "postalCode" : "70124", "country" : "Italy" },
+            "note" : "Recommended by ISMAR2026 organizers",
+            "categories" : [ { "categoryType" : "Theme", "value" : "Restaurant" } ],
+            "accessPoint" : { "coordinates" : [ 41.0984419, 16.8530833 ] }
+         }
+      },
+      {
+         "type" : "Feature",
+         "geometry" : { "type" : "Point", "coordinates" : [ 41.0969595, 16.8533449 ] },
+         "featureID" : "bari-poi-09",
+         "name" : { "name" : "La Superpizza" },
+         "hasPayload" : {
+            "usesSchema" : [ { "href" : "https://genpoijson.org/schema/interchangepoi.json", "rel" : "describedby" } ],
+            "address" : { "housenumber" : "12", "street" : "Via Nicola Angelini", "city" : "Bari", "postalCode" : "70124", "country" : "Italy" },
+            "note" : "Recommended by ISMAR2026 organizers",
+            "categories" : [ { "categoryType" : "Theme", "value" : "Restaurant" } ],
+            "accessPoint" : { "coordinates" : [ 41.0969595, 16.8533449 ] }
+         }
+      },
+      {
+         "type" : "Feature",
+         "geometry" : { "type" : "Point", "coordinates" : [ 41.0984419, 16.8530833 ] },
+         "featureID" : "bari-poi-10",
+         "name" : { "name" : "Naam - Wok Experience" },
+         "hasPayload" : {
+            "usesSchema" : [ { "href" : "https://genpoijson.org/schema/interchangepoi.json", "rel" : "describedby" } ],
+            "address" : { "housenumber" : "4", "street" : "Via Enrico Pappacena", "city" : "Bari", "postalCode" : "70124", "country" : "Italy" },
+            "note" : "Recommended by ISMAR2026 organizers",
+            "categories" : [ { "categoryType" : "Theme", "value" : "Restaurant" } ],
+            "accessPoint" : { "coordinates" : [ 41.0984419, 16.8530833 ] }
+         }
+      },
+      {
+         "type" : "Feature",
+         "geometry" : { "type" : "Point", "coordinates" : [ 41.1047655, 16.8535719 ] },
+         "featureID" : "bari-poi-11",
+         "name" : { "name" : "Thai Bangkok Poggiofranco" },
+         "hasPayload" : {
+            "usesSchema" : [ { "href" : "https://genpoijson.org/schema/interchangepoi.json", "rel" : "describedby" } ],
+            "address" : { "housenumber" : "106/C", "street" : "Via Orfeo Mazzitelli", "city" : "Bari", "postalCode" : "70124", "country" : "Italy" },
+            "note" : "Recommended by ISMAR2026 organizers",
+            "categories" : [ { "categoryType" : "Theme", "value" : "Restaurant" } ],
+            "accessPoint" : { "coordinates" : [ 41.1047655, 16.8535719 ] }
+         }
+      },
+      {
+         "type" : "Feature",
+         "geometry" : { "type" : "Point", "coordinates" : [ 41.0975939, 16.8536001 ] },
+         "featureID" : "bari-poi-12",
+         "name" : { "name" : "Oktoberfest Pub" },
+         "hasPayload" : {
+            "usesSchema" : [ { "href" : "https://genpoijson.org/schema/interchangepoi.json", "rel" : "describedby" } ],
+            "address" : { "housenumber" : "59", "street" : "Via Edmondo Caccuri", "city" : "Bari", "postalCode" : "70124", "country" : "Italy" },
+            "note" : "Recommended by ISMAR2026 organizers",
+            "categories" : [ { "categoryType" : "Theme", "value" : "Restaurant" } ],
+            "accessPoint" : { "coordinates" : [ 41.0975939, 16.8536001 ] }
+         }
+      },
+      {
+         "type" : "Feature",
+         "geometry" : { "type" : "Point", "coordinates" : [ 41.0975939, 16.8536001 ] },
+         "featureID" : "bari-poi-13",
+         "name" : { "name" : "Rossopomodoro Bari" },
+         "hasPayload" : {
+            "usesSchema" : [ { "href" : "https://genpoijson.org/schema/interchangepoi.json", "rel" : "describedby" } ],
+            "address" : { "housenumber" : "53", "street" : "Via Edmondo Caccuri", "city" : "Bari", "postalCode" : "70124", "country" : "Italy" },
+            "note" : "Recommended by ISMAR2026 organizers",
+            "categories" : [ { "categoryType" : "Theme", "value" : "Restaurant" } ],
+            "accessPoint" : { "coordinates" : [ 41.0975939, 16.8536001 ] }
+         }
+      },
+      {
+         "type" : "Feature",
+         "geometry" : { "type" : "Point", "coordinates" : [ 41.0992037, 16.8508203 ] },
+         "featureID" : "bari-poi-14",
+         "name" : { "name" : "Pi\u00f9 Komodo Ristopizza" },
+         "hasPayload" : {
+            "usesSchema" : [ { "href" : "https://genpoijson.org/schema/interchangepoi.json", "rel" : "describedby" } ],
+            "address" : { "housenumber" : "41", "street" : "Via Giuseppe Posca", "city" : "Bari", "postalCode" : "70124", "country" : "Italy" },
+            "note" : "Recommended by ISMAR2026 organizers",
+            "categories" : [ { "categoryType" : "Theme", "value" : "Restaurant" } ],
+            "accessPoint" : { "coordinates" : [ 41.0992037, 16.8508203 ] }
+         }
+      },
+      {
+         "type" : "Feature",
+         "geometry" : { "type" : "Point", "coordinates" : [ 41.1047655, 16.8535719 ] },
+         "featureID" : "bari-poi-15",
+         "name" : { "name" : "Hanami Poggiofranco Sushi" },
+         "hasPayload" : {
+            "usesSchema" : [ { "href" : "https://genpoijson.org/schema/interchangepoi.json", "rel" : "describedby" } ],
+            "address" : { "housenumber" : "142", "street" : "Via Orfeo Mazzitelli", "city" : "Bari", "postalCode" : "70124", "country" : "Italy" },
+            "note" : "Recommended by ISMAR2026 organizers",
+            "categories" : [ { "categoryType" : "Theme", "value" : "Restaurant" } ],
+            "accessPoint" : { "coordinates" : [ 41.1047655, 16.8535719 ] }
+         }
+      },
+      {
+         "type" : "Feature",
+         "geometry" : { "type" : "Point", "coordinates" : [ 41.1036642, 16.8576063 ] },
+         "featureID" : "bari-poi-16",
+         "name" : { "name" : "Elite Pizza" },
+         "hasPayload" : {
+            "usesSchema" : [ { "href" : "https://genpoijson.org/schema/interchangepoi.json", "rel" : "describedby" } ],
+            "address" : { "housenumber" : "6", "street" : "Via Camillo Rosalba", "city" : "Bari", "postalCode" : "70124", "country" : "Italy" },
+            "note" : "Recommended by ISMAR2026 organizers",
+            "categories" : [ { "categoryType" : "Theme", "value" : "Restaurant" } ],
+            "accessPoint" : { "coordinates" : [ 41.1036642, 16.8576063 ] }
+         }
+      },
+      {
+         "type" : "Feature",
+         "geometry" : { "type" : "Point", "coordinates" : [ 41.1067442, 16.8535463 ] },
+         "featureID" : "bari-poi-17",
+         "name" : { "name" : "Giotto" },
+         "hasPayload" : {
+            "usesSchema" : [ { "href" : "https://genpoijson.org/schema/interchangepoi.json", "rel" : "describedby" } ],
+            "address" : { "housenumber" : "178", "street" : "Via Orfeo Mazzitelli", "city" : "Bari", "postalCode" : "70124", "country" : "Italy" },
+            "note" : "Recommended by ISMAR2026 organizers",
+            "categories" : [ { "categoryType" : "Theme", "value" : "Restaurant" } ],
+            "accessPoint" : { "coordinates" : [ 41.1067442, 16.8535463 ] }
+         }
+      },
+      {
+         "type" : "Feature",
+         "geometry" : { "type" : "Point", "coordinates" : [ 41.1042992, 16.8596517 ] },
+         "featureID" : "bari-poi-18",
+         "name" : { "name" : "DonPollo" },
+         "hasPayload" : {
+            "usesSchema" : [ { "href" : "https://genpoijson.org/schema/interchangepoi.json", "rel" : "describedby" } ],
+            "address" : { "housenumber" : "43", "street" : "Viale Papa Pio XII", "city" : "Bari", "postalCode" : "70124", "country" : "Italy" },
+            "note" : "Recommended by ISMAR2026 organizers",
+            "categories" : [ { "categoryType" : "Theme", "value" : "Restaurant" } ],
+            "accessPoint" : { "coordinates" : [ 41.1042992, 16.8596517 ] }
+         }
+      },
+      {
+         "type" : "Feature",
+         "geometry" : { "type" : "Point", "coordinates" : [ 41.1044485, 16.8534074 ] },
+         "featureID" : "bari-poi-19",
+         "name" : { "name" : "Stocotto" },
+         "hasPayload" : {
+            "usesSchema" : [ { "href" : "https://genpoijson.org/schema/interchangepoi.json", "rel" : "describedby" } ],
+            "address" : { "housenumber" : "170", "street" : "Via Orfeo Mazzitelli", "city" : "Bari", "postalCode" : "70124", "country" : "Italy" },
+            "note" : "Recommended by ISMAR2026 organizers",
+            "categories" : [ { "categoryType" : "Theme", "value" : "Restaurant" } ],
+            "accessPoint" : { "coordinates" : [ 41.1044485, 16.8534074 ] }
+         }
+      },
+      {
+         "type" : "Feature",
+         "geometry" : { "type" : "Point", "coordinates" : [ 41.1064186, 16.8523716 ] },
+         "featureID" : "bari-poi-20",
+         "name" : { "name" : "Osteria del Porto Poggiofranco" },
+         "hasPayload" : {
+            "usesSchema" : [ { "href" : "https://genpoijson.org/schema/interchangepoi.json", "rel" : "describedby" } ],
+            "address" : { "housenumber" : "258/A", "street" : "Via Orfeo Mazzitelli", "city" : "Bari", "postalCode" : "70124", "country" : "Italy" },
+            "note" : "Recommended by ISMAR2026 organizers",
+            "categories" : [ { "categoryType" : "Theme", "value" : "Restaurant" } ],
+            "accessPoint" : { "coordinates" : [ 41.1064186, 16.8523716 ] }
+         }
+      },
+      {
+         "type" : "Feature",
+         "geometry" : { "type" : "Point", "coordinates" : [ 41.1064186, 16.8523716 ] },
+         "featureID" : "bari-poi-21",
+         "name" : { "name" : "Osteria dell'Orto" },
+         "hasPayload" : {
+            "usesSchema" : [ { "href" : "https://genpoijson.org/schema/interchangepoi.json", "rel" : "describedby" } ],
+            "address" : { "housenumber" : "258/A", "street" : "Via Orfeo Mazzitelli", "city" : "Bari", "postalCode" : "70124", "country" : "Italy" },
+            "note" : "Recommended by ISMAR2026 organizers",
+            "categories" : [ { "categoryType" : "Theme", "value" : "Restaurant" } ],
+            "accessPoint" : { "coordinates" : [ 41.1064186, 16.8523716 ] }
+         }
+      },
+      {
+         "type" : "Feature",
+         "geometry" : { "type" : "Point", "coordinates" : [ 41.1047655, 16.8535719 ] },
+         "featureID" : "bari-poi-22",
+         "name" : { "name" : "SENTI che pizza" },
+         "hasPayload" : {
+            "usesSchema" : [ { "href" : "https://genpoijson.org/schema/interchangepoi.json", "rel" : "describedby" } ],
+            "address" : { "housenumber" : "256", "street" : "Via Orfeo Mazzitelli", "city" : "Bari", "postalCode" : "70124", "country" : "Italy" },
+            "note" : "Recommended by ISMAR2026 organizers",
+            "categories" : [ { "categoryType" : "Theme", "value" : "Restaurant" } ],
+            "accessPoint" : { "coordinates" : [ 41.1047655, 16.8535719 ] }
+         }
+      },
+      {
+         "type" : "Feature",
+         "geometry" : { "type" : "Point", "coordinates" : [ 41.1064186, 16.8523716 ] },
+         "featureID" : "bari-poi-23",
+         "name" : { "name" : "Sensi - Osteria Contemporanea" },
+         "hasPayload" : {
+            "usesSchema" : [ { "href" : "https://genpoijson.org/schema/interchangepoi.json", "rel" : "describedby" } ],
+            "address" : { "housenumber" : "258/C", "street" : "Via Orfeo Mazzitelli", "city" : "Bari", "postalCode" : "70124", "country" : "Italy" },
+            "note" : "Recommended by ISMAR2026 organizers",
+            "categories" : [ { "categoryType" : "Theme", "value" : "Restaurant" } ],
+            "accessPoint" : { "coordinates" : [ 41.1064186, 16.8523716 ] }
+         }
+      },
+      {
+         "type" : "Feature",
+         "geometry" : { "type" : "Point", "coordinates" : [ 41.1047655, 16.8535719 ] },
+         "featureID" : "bari-poi-24",
+         "name" : { "name" : "Tabula Rasa" },
+         "hasPayload" : {
+            "usesSchema" : [ { "href" : "https://genpoijson.org/schema/interchangepoi.json", "rel" : "describedby" } ],
+            "address" : { "housenumber" : "268", "street" : "Via Orfeo Mazzitelli", "city" : "Bari", "postalCode" : "70124", "country" : "Italy" },
+            "note" : "Recommended by ISMAR2026 organizers",
+            "categories" : [ { "categoryType" : "Theme", "value" : "Restaurant" } ],
+            "accessPoint" : { "coordinates" : [ 41.1047655, 16.8535719 ] }
+         }
+      },
+      {
+         "type" : "Feature",
+         "geometry" : { "type" : "Point", "coordinates" : [ 41.1066456, 16.8532468 ] },
+         "featureID" : "bari-poi-25",
+         "name" : { "name" : "Le V\u00e9ronique Poggiofranco" },
+         "hasPayload" : {
+            "usesSchema" : [ { "href" : "https://genpoijson.org/schema/interchangepoi.json", "rel" : "describedby" } ],
+            "address" : { "housenumber" : "266", "street" : "Via Orfeo Mazzitelli", "city" : "Bari", "postalCode" : "70124", "country" : "Italy" },
+            "note" : "Recommended by ISMAR2026 organizers",
+            "categories" : [ { "categoryType" : "Theme", "value" : "Restaurant" } ],
+            "accessPoint" : { "coordinates" : [ 41.1066456, 16.8532468 ] }
+         }
+      },
+      {
+         "type" : "Feature",
+         "geometry" : { "type" : "Point", "coordinates" : [ 41.1031300, 16.8603632 ] },
+         "featureID" : "bari-poi-26",
+         "name" : { "name" : "I Bugiardi Poggiofranco" },
+         "hasPayload" : {
+            "usesSchema" : [ { "href" : "https://genpoijson.org/schema/interchangepoi.json", "rel" : "describedby" } ],
+            "address" : { "housenumber" : "29", "street" : "Via Arcidiacono Giovanni", "city" : "Bari", "postalCode" : "70124", "country" : "Italy" },
+            "note" : "Recommended by ISMAR2026 organizers",
+            "categories" : [ { "categoryType" : "Theme", "value" : "Restaurant" } ],
+            "accessPoint" : { "coordinates" : [ 41.1031300, 16.8603632 ] }
+         }
+      },
+      {
+         "type" : "Feature",
+         "geometry" : { "type" : "Point", "coordinates" : [ 41.0950146, 16.8656759 ] },
+         "featureID" : "bari-poi-27",
+         "name" : { "name" : "Pub Malto's Beer" },
+         "hasPayload" : {
+            "usesSchema" : [ { "href" : "https://genpoijson.org/schema/interchangepoi.json", "rel" : "describedby" } ],
+            "address" : { "housenumber" : "1/B", "street" : "Via Aurelio Carrante", "city" : "Bari", "postalCode" : "70124", "country" : "Italy" },
+            "note" : "Recommended by ISMAR2026 organizers",
+            "categories" : [ { "categoryType" : "Theme", "value" : "Restaurant" } ],
+            "accessPoint" : { "coordinates" : [ 41.0950146, 16.8656759 ] }
+         }
+      },
+      {
+         "type" : "Feature",
+         "geometry" : { "type" : "Point", "coordinates" : [ 41.1069490, 16.8620753 ] },
+         "featureID" : "bari-poi-28",
+         "name" : { "name" : "Yuzu Sushi" },
+         "hasPayload" : {
+            "usesSchema" : [ { "href" : "https://genpoijson.org/schema/interchangepoi.json", "rel" : "describedby" } ],
+            "address" : { "housenumber" : "24", "street" : "Viale Papa Giovanni XXIII", "city" : "Bari", "postalCode" : "70124", "country" : "Italy" },
+            "note" : "Recommended by ISMAR2026 organizers",
+            "categories" : [ { "categoryType" : "Theme", "value" : "Restaurant" } ],
+            "accessPoint" : { "coordinates" : [ 41.1069490, 16.8620753 ] }
+         }
+      },
+      {
+         "type" : "Feature",
+         "geometry" : { "type" : "Point", "coordinates" : [ 41.0986747, 16.8712848 ] },
+         "featureID" : "bari-poi-29",
+         "name" : { "name" : "Al Gusto Antico" },
+         "hasPayload" : {
+            "usesSchema" : [ { "href" : "https://genpoijson.org/schema/interchangepoi.json", "rel" : "describedby" } ],
+            "address" : { "housenumber" : "", "street" : "Via Ugo La Malfa", "city" : "Bari", "postalCode" : "70125", "country" : "Italy" },
+            "note" : "Restaurant in Bari (confirmed via Google Maps place link)",
+            "categories" : [ { "categoryType" : "Theme", "value" : "Restaurant" } ],
+            "accessPoint" : { "coordinates" : [ 41.0986747, 16.8712848 ] }
+         }
+      },
+      {
+         "type" : "Feature",
+         "geometry" : { "type" : "Point", "coordinates" : [ 41.1059278, 16.8670082 ] },
+         "featureID" : "bari-poi-30",
+         "name" : { "name" : "Pizzeria Di Cosimo" },
+         "hasPayload" : {
+            "usesSchema" : [ { "href" : "https://genpoijson.org/schema/interchangepoi.json", "rel" : "describedby" } ],
+            "address" : { "housenumber" : "1", "street" : "Via Giovanni Modugno", "city" : "Bari", "postalCode" : "70124", "country" : "Italy" },
+            "note" : "Recommended by ISMAR2026 organizers",
+            "categories" : [ { "categoryType" : "Theme", "value" : "Restaurant" } ],
+            "accessPoint" : { "coordinates" : [ 41.1059278, 16.8670082 ] }
+         }
+      },
+      {
+         "type" : "Feature",
+         "geometry" : { "type" : "Point", "coordinates" : [ 41.0889707, 16.8650845 ] },
+         "featureID" : "bari-poi-31",
+         "name" : { "name" : "Il Quadrifoglio" },
+         "hasPayload" : {
+            "usesSchema" : [ { "href" : "https://genpoijson.org/schema/interchangepoi.json", "rel" : "describedby" } ],
+            "address" : { "housenumber" : "", "street" : "Via Generale Carlo Alberto Dalla Chiesa", "city" : "Bari", "postalCode" : "70125", "country" : "Italy" },
+            "note" : "Restaurant in Bari (confirmed via Google Maps place link)",
+            "categories" : [ { "categoryType" : "Theme", "value" : "Restaurant" } ],
+            "accessPoint" : { "coordinates" : [ 41.0889707, 16.8650845 ] }
+         }
+      }
+   ]
+}
