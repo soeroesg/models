@@ -1,9 +1,22 @@
 {
    "type" : "FeatureCollection",
    "features" : [
+       {
+         "type" : "Feature",
+         "geometry" : { "type" : "Point", "coordinates" : [ 41.098994558186355, 16.854823884694262 ] },
+         "featureID" : "bari-poi-00",
+         "name" : { "name" : "Nicolaus Hotel Bari" },
+         "hasPayload" : {
+            "usesSchema" : [ { "href" : "https://genpoijson.org/schema/interchangepoi.json", "rel" : "describedby" } ],
+            "address" : { "housenumber" : "27", "street" : "Via Cardinale Agostino Ciasca", "city" : "Bari", "postalCode" : "70124", "country" : "Italy" },
+            "note" : "Recommended by ISMAR2026 organizers",
+            "categories" : [ { "categoryType" : "Theme", "value" : "Hotel" } ],
+            "accessPoint" : { "coordinates" : [ 41.098994558186355, 16.854823884694262 ] }
+         }
+      },
       {
          "type" : "Feature",
-         "geometry" : { "type" : "Point", "coordinates" : [ 41.0987727, 16.8552901 ] },
+         "geometry" : { "type" : "Point", "coordinates" : [ 41.099015388535875, 16.85508920237166 ] },
          "featureID" : "bari-poi-01",
          "name" : { "name" : "Taiki Sushi" },
          "hasPayload" : {
@@ -11,7 +24,7 @@
             "address" : { "housenumber" : "25", "street" : "Via Cardinale Agostino Ciasca", "city" : "Bari", "postalCode" : "70124", "country" : "Italy" },
             "note" : "Recommended by ISMAR2026 organizers",
             "categories" : [ { "categoryType" : "Theme", "value" : "Restaurant" } ],
-            "accessPoint" : { "coordinates" : [ 41.0987727, 16.8552901 ] }
+            "accessPoint" : { "coordinates" : [ 41.099015388535875, 16.85508920237166 ] }
          }
       },
       {
